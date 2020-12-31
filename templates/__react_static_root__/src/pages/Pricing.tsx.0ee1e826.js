@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{54:function(e,n,t){"use strict";t.r(n);var r=t(0),a=t.n(r);n.default=function(){return a.a.createElement("div",null,a.a.createElement("p",null,"Pricing goes here!"))}}}]);
